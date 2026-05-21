@@ -80,3 +80,6 @@ coverage/
 *.local
 .cache
 .temp
+
+#docs
+docs/Github.md
